@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/Ajaymenonm/dev-exchange-hackathon.git"
   },
   "author": "Ajay Menon",
   "license": "ISC",
